@@ -1,4 +1,5 @@
-[![MasterHead](https://drive.google.com/file/d/1znryHgCDSl6cOEFbMDtvEJ9sCq6llQgq/view?usp=sharing)
+[![GitHub Banner](https://github.com/DEV-S-SHAH/DEV-S-SHAH/raw/main/GitHub%20banner.png)](https://github.com/DEV-S-SHAH)
+
 <h1 align="center">Hi 👋, I'm DEV S SHAH</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
