@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm DEV S SHAH</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-s-shah&label=Profile%20views&color=0e75b6&style=flat" alt="dev-s-shah" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-s-shah&label=Profile%20views&color=0e75b6&style=flat" alt="dev-s-shah" /> </p> 
 
 - 👯 I’m looking to collaborate on **AI + Hardware**
 
