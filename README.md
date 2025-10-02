@@ -1,6 +1,7 @@
 [![GitHub Banner](https://github.com/DEV-S-SHAH/DEV-S-SHAH/raw/main/GitHub%20banner.png)](https://github.com/DEV-S-SHAH)
 
 <h1 align="center">Hi 👋, I'm DEV S SHAH</h1>
+<h1>Parrotify <img src="thumbsupparrot.gif" width="50"></h1>
 <h3 align="center">A passionate srudent from ELECTRONICS and TELECOMMUNICATION</h3>
 
 <img align="right" alt="Coding" width="300" height="200" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
